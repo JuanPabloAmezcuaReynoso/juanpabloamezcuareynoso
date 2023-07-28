@@ -1,16 +1,33 @@
-### Hi there 👋
+<div id="header" align ="center">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
+    <h1 align ="center">Hi i am Juan Pablo Amezcua 👋</h1>
+    <h3 align ="center">A highly accomplished and driven Data Scientist with a solid background in industrial engineering and systems. I leverage statistical analysis and advanced machine learning models to deliver impactful data-driven insights. </h3>
 
-<!--
-**JuanPabloAmezcuaReynoso/juanpabloamezcuareynoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+---
+### About Me 💻:
+- 🌱 I’m currently learning: **JS, React, Azure and AWP.**
+- 💬 Ask me about: **Data Science, Data Analytics, Statistics.**
+- 📫 How to reach me: **[Email](juanpabloamezcua@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/juan-pablo-amezcua-reynoso/).**
+---
+<div align ="left">
+  <h3>🔨 Languages and Tools:</h3>
+  <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40"             height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Git" **alt="Git"               width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Git" **alt="Git" width="40"               height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Git" **alt="Git" width="40"          height="40">
+  </div>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stats:
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JuanPabloAmezcuaReynoso&theme=dark&hide_border=true&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloAmezcuaReynoso)](https://github.com/JuanPabloAmezcuaReynoso/github-readme-stats)
+
+
+
+---
