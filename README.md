@@ -6,7 +6,7 @@
   
 ---
 ### About Me 💻:
-- 🌱 I’m currently learning: **JS, React, Azure and AWP.**
+- 🌱 I’m currently learning: **Azure and AWP.**
 - 💬 Ask me about: **Data Science, Data Analytics, Statistics.**
 - 📫 How to reach me: **[Email](juanpabloamezcua@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/juan-pablo-amezcua-reynoso/).**
 ---
