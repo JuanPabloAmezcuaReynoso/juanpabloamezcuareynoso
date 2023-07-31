@@ -18,7 +18,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Git" **alt="Git" width="40"               height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Git" **alt="Git" width="40"          height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Git" **alt="Git" width="40"          height="40">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/icons/linkedin/linkedin-original.svg" title="Git" **alt="Git"             width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Git" **alt="Git"             width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Git" **alt="Git" width="40"          height="40">
   </div>
 </div>
