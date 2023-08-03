@@ -3,7 +3,7 @@
     <h1 align ="center">Hi i am Juan Pablo Amezcua 👋</h1>
     <h3 align ="center">A highly accomplished and driven Data Scientist with a solid background in industrial engineering and systems. I leverage statistical analysis and advanced machine learning models to deliver impactful data-driven insights. </h3>
 
-  
+
 ---
 ### About Me 💻:
 - 🌱 I’m currently learning: **Azure and AWP.**
